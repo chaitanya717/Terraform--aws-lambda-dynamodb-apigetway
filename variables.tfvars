@@ -1,0 +1,6 @@
+lambda-iam_role_name = "lamda_function_role"
+lambda-function_name_1 = "hello-word"
+lambda-function_1_runtime = "nodejs18.x"
+lambda-function_1_handler = "index.handler"
+lambda-function_name_2 = "func-2"
+lambda-function_2_handler = "add.handler"
